@@ -1,7 +1,12 @@
-#projetos header {
+#contact {
+  background-color: var(--gray-100);
+  padding-bottom: 120px;
+}
+
+#contact header {
   text-align: center;
   gap: 8px;
-  margin-top: 72px;
+  padding-top: 72px;
   margin-bottom: 56px;
 
   sub {
@@ -15,39 +20,31 @@
     color: var(--gray-600);
   }
 }
-#cards {
-  
+#services {
   display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
   justify-content: center;
-  margin-inline: 120px;
-  margin-bottom: 144px ;
-
+  gap: 24px;
 }
 
-#card {
-  background-color: var(--gray-300);
-  border-radius: 12px;
+#cardss {
   display: inline-flex;
   flex-direction: column;
-  padding: 12px;
-  
+  border: 2px solid #16181D;
+  border-radius: 12px;
+  padding: 20px;
+  img {
+    width: 48px;
+    height: 48px;
+  }
 
-  sub {
-    margin-top: 16px;
+  p {
+    margin-top: 20px;
     font: var(--text-sm-asap);
     color: var(--gray-600);
-
   }
-  p {
+  sub {
     margin-top: 8px;
     font: var(--text-sm-maven);
     color: var(--gray-500);
-  }
-  img {
-    width: 306px;
-    height: 156px;
-    border-radius: 8px;
   }
 }

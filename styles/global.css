@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  max-width: 1366px;
 }
 
 /* VARIABLES */
@@ -43,7 +44,7 @@
 }
 
 body {
-  background: var(--gray-200) url(../assets/Background_Intro.png) no-repeat top/cover;
+  background: var(--gray-200);
   
 }
 
