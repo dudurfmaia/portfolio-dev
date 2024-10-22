@@ -5,7 +5,7 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  background: url(../assets/Background_Intro.png) no-repeat center/cover;
+  background: url(./Background_Intro.png) no-repeat center/cover;
   p {
     margin-top: 20px;
     font: var(--text-sm-maven);
