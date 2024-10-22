@@ -50,6 +50,9 @@ body {
 
 a {
   text-decoration: none;
-  align-items: center;
-  vertical-align: center;
+  
+}
+a:hover {
+  color: var(--red);
+  
 }

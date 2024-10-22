@@ -43,6 +43,7 @@
   padding: 8px 16px;
   gap: 8px;
   font: var(--text-md-maven);
+  transition: transform 0.3s ease;
   
 }
 #links {
@@ -54,4 +55,8 @@
 }
 #seta {
   margin-top: 94px;
+}
+#button a:hover {
+  color: var(--red);
+  transform: scale(1.1);
 }
