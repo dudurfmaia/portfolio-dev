@@ -37,7 +37,7 @@ Projeto voltado para criação de portfólio para desenvolvedores
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/rYjwXU4pWGsalhlBECafP0/Portfolio-Dev-(Community)?m=auto&t=hIUqiZSxGo7HMrCp-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
