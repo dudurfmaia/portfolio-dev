@@ -43,5 +43,12 @@
 }
 
 body {
+  background: var(--gray-200) url(../assets/Background_Intro.png) no-repeat top/cover;
+  
+}
 
+a {
+  text-decoration: none;
+  align-items: center;
+  vertical-align: center;
 }

@@ -1,0 +1,15 @@
+#projetos header {
+  text-align: center;
+  gap: 8px;
+  margin-top: 72px;
+
+  sub {
+    font: var(--subtitle);
+    color: var(--red);
+
+  }
+  h2 {
+    font: var(--text-md-asap);
+    color: var(--gray-600);
+  }
+}
